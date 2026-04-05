@@ -1,4 +1,4 @@
-#### Workloads and Performance
+## Workloads and Performance
 
 ### GSP497 : Cloud Operations for GKE
 ```
@@ -24,7 +24,7 @@ sudo chmod +x lab4.sh
 ./lab4.sh
 ```
 
-#### Networking and Cluster Setup
+## Networking and Cluster Setup
 
 ### GSP957 : Deploy Applications with GKE Autopilot
 ```
