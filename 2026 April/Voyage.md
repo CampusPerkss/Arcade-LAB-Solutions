@@ -12,11 +12,9 @@ sudo chmod +x lab1part2.sh
 ./lab1part2.sh
 ```
 
-### GSP736 : Debug Apps on Google Kubernetes Engine
+### GSP747 : Deploy a Hugo Website with Cloud Build and Firebase Pipeline
 ```
-curl -O https://raw.githubusercontent.com/StudentTechHubs/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab2.sh
-sudo chmod +x lab2.sh
-./lab2.sh
+MANUAL LAB DO By OWN SOLUTION EXPLAIN GIVEN IN VIDEO
 ```
 
 ### GSP768 : Understanding and Combining GKE Autoscaling Strategies
