@@ -1,8 +1,15 @@
-## 1.  Workloads and Performance
+## 1.  Building and Deploying Applications
 
-### GSP497 : Cloud Operations for GKE
+### GSP662 : Host a Web App on Google Cloud Using Compute Engine
 ```
-Command Already given in tasks only juat you have to run in terminal
+curl -O https://raw.githubusercontent.com/StudentTechHubs/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab1part1.sh
+sudo chmod +x lab1part1.sh
+./lab1part1.sh
+```
+```
+curl -O https://raw.githubusercontent.com/StudentTechHubs/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab1part2.sh
+sudo chmod +x lab1part2.sh
+./lab1part2.sh
 ```
 
 ### GSP736 : Debug Apps on Google Kubernetes Engine
