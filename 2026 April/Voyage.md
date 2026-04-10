@@ -12,6 +12,13 @@ sudo chmod +x lab1part2.sh
 ./lab1part2.sh
 ```
 
+#### OR 
+```
+curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab1p3.sh
+sudo chmod +x labp3.sh
+./labp3.sh
+```
+
 ### GSP747 : Deploy a Hugo Website with Cloud Build and Firebase Pipeline
 ```
 MANUAL LAB DO By OWN SOLUTION EXPLAIN GIVEN IN VIDEO
@@ -29,12 +36,6 @@ sudo chmod +x lab3.sh
 curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab4.sh
 sudo chmod +x lab4.sh
 ./lab4.sh
-```
-#### OR 
-```
-curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab1p3.sh
-sudo chmod +x labp3.sh
-./labp3.sh
 ```
 
 ## 2. Networking and Cluster Setup
