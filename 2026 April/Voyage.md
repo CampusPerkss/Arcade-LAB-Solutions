@@ -30,6 +30,12 @@ curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/hea
 sudo chmod +x lab4.sh
 ./lab4.sh
 ```
+#### OR 
+```
+curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab1p3.sh
+sudo chmod +x labp3.sh
+./labp3.sh
+```
 
 ## 2. Networking and Cluster Setup
 
