@@ -31,7 +31,7 @@ sudo chmod +x lab3.sh
 ./lab3.sh
 ```
 
-### GSP769 : GKE Workload Optimization
+### GSP221 : Multiple VPC Networks
 ```
 curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab4.sh
 sudo chmod +x lab4.sh
