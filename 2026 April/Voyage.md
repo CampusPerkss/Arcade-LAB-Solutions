@@ -40,7 +40,7 @@ sudo chmod +x lab4.sh
 
 ## 2. Networking and Infrastructure Essentials
 
-### GSP216 : Networking and Infrastructure Essentials
+### GSP216 : Enhance Application Reliability and Scalability with Internal Load Balancing
 ```
 curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab5.sh
 sudo chmod +x lab5.sh
