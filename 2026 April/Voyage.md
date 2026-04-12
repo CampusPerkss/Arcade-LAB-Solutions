@@ -52,16 +52,19 @@ sudo chmod +x lab5.sh
 Open lab for 5-10 minutes and your lab will automatically completed
 ```
 
-### GSP178 : Setting up a Private Kubernetes Cluster
+### GSP183 : App Dev: Setting up a Development Environment - Python
 ```
-curl -O https://raw.githubusercontent.com/StudentTechHubs/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab7.sh 
+export ZONE=
+```
+```
+curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab7.sh
 sudo chmod +x lab7.sh
 ./lab7.sh
 ```
 
 ### GSP182 : Distributed Load Testing Using Kubernetes
 ```
-curl -O https://raw.githubusercontent.com/StudentTechHubs/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab8.sh
-sudo chmod +x lab8.sh 
+curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab8.sh
+sudo chmod +x lab8.sh
 ./lab8.sh
 ```
