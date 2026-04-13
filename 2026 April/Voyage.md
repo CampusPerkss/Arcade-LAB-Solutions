@@ -62,7 +62,7 @@ sudo chmod +x lab7.sh
 ./lab7.sh
 ```
 
-### GSP182 : Distributed Load Testing Using Kubernetes
+### GSP648 : Clean Up Unused and Orphaned Persistent Disks
 ```
 curl -O https://raw.githubusercontent.com/PerkVerse/google-cloud-arcade/refs/heads/main/2026/April%202026/Sprint1/lab8.sh
 sudo chmod +x lab8.sh
