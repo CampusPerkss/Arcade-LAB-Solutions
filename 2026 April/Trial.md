@@ -195,6 +195,7 @@ explore: events {
     relationship: many_to_one
   }
 }
+
 ```
 
 ### GSP409 : Explore and Create Reports with Looker Studio
